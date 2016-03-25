@@ -1,3 +1,3 @@
-package "git"
-log "Well, this is easy"
+package 'git'
+log 'Well, this is easy'
 
