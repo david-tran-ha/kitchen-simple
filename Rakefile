@@ -16,6 +16,7 @@ end
 desc 'This is Test 2. Will print Test 2'
 task :test2 do
 	puts 'This is test 2'
+	puts 'This is the PATH environment: ' + ENV['PATH'] 
 end
 
 # Style tests. Rubocop and Foodcritic
