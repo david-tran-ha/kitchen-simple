@@ -7,4 +7,5 @@ before_install:
     - gem install rubocop 
     - gem install foodcritic 
     - gem install rspec 
+    - setup.bash 
 
