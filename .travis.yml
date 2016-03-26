@@ -4,8 +4,8 @@ env:
 rvm:
     - 2.1.0
 before_install: 
-#    - gem install rubocop 
-#    - gem install foodcritic 
-#    - gem install rspec 
+    - gem install rubocop 
+    - gem install foodcritic 
+    - gem install rspec 
     - ./setup.bash 
 
